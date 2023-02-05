@@ -1,6 +1,6 @@
 ##  Olá! Eu sou David Almeida Melo 👋
 
-- 🌱 Atualmente estudando Javascript.
+- 🌱 Atualmente estudando PHP E SQL.
 - 📙 Sempre procurando aprender.
 - 🎈 Cursando Análise e desenvolvimento de sistemas
 
