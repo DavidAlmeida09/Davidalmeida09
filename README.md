@@ -11,7 +11,8 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    <img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="right" alt="David-pic" height="150" style="border-radius:50px;" src="https://steamuserimages-a.akamaihd.net/ugc/1651091246343514308/0CF06F39BBD98BA6D2559B70D1E9168F8EFD1C09/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
