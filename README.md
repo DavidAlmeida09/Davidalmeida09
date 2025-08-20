@@ -1,8 +1,7 @@
 ##  Olá! Eu sou David Almeida Melo 👋
 
-- 🌱 Atualmente estudando PYTHON. 
+- 🌱 Atualmente estudando JAVA. 
 - 📙 Sempre procurando aprender.
-- 🎈 Cursando Análise e desenvolvimento de sistemas
 
 <div align="center">
   <a href="https://github.com/Davidalmeida09">
